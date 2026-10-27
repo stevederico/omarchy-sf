@@ -22,7 +22,7 @@ Memberships renew monthly. Cancel anytime: [Manage subscription](https://billing
 
 ## Current members
 
-Be the first!
+- Benjamin G
 
 ## Past meetups / videos
 
