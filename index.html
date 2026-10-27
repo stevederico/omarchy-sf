@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Omarchy SF</title>
+<meta name="description" content="Omarchy SF is the San Francisco Omarchy meetup.">
+<style>
+  :root {
+    --bg: #ffffff;
+    --fg: #1a1a1a;
+    --muted: #5f6368;
+    --border: #e3e3e3;
+    --link: #0b57d0;
+    --card: #f7f7f8;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #111214;
+      --fg: #ececec;
+      --muted: #a0a4ab;
+      --border: #2a2c30;
+      --link: #8ab4f8;
+      --card: #1a1c1f;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+  }
+  main {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 48px 16px 64px;
+  }
+  h1 { font-size: 2.25rem; line-height: 1.2; margin: 0 0 16px; }
+  h2 {
+    font-size: 1.25rem;
+    margin: 40px 0 12px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+  }
+  p { margin: 0 0 12px; }
+  a { color: var(--link); }
+  .muted { color: var(--muted); font-size: 0.95rem; }
+  ul { padding-left: 20px; margin: 0 0 12px; }
+  li { margin-bottom: 8px; }
+  .tiers {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 8px;
+  }
+  .tiers li { margin: 0; }
+  .tiers a {
+    display: block;
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 600;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+  }
+  .tiers a:hover { border-color: var(--link); }
+  .next {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px;
+  }
+  footer { margin-top: 48px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Omarchy SF</h1>
+  <p>Omarchy SF is the San Francisco <a href="https://omarchy.org">Omarchy</a> meetup. Bring your laptop and show what you've built with Omarchy: plugins, themes, workflows, agents and hardware. Or just come hang out and see how other people made Omarchy theirs.</p>
+  <p class="muted">Community-run meetup. Not affiliated with or endorsed by Omarchy or 37signals.</p>
+
+  <h2>Next meetup</h2>
+  <div class="next">
+    <p>Wednesday, November 4, 2026, hosted by Cloudflare.</p>
+    <p><a href="https://luma.com/7c2wohwf">RSVP on Luma</a> · <a href="https://x.com/stevederico/status/2112634779409764408">Details on X</a></p>
+  </div>
+
+  <h2>Support</h2>
+  <p>Payments are processed by Bixby Apps LLC via Stripe. Not tax-deductible.</p>
+  <p>Each meetup costs about $200 for pizza and beer. Anything left after meetup costs may be used by Bixby Apps LLC to sponsor Omarchy open source projects. Supporter money goes to meetup costs.</p>
+  <p>Supporters get early access and guaranteed entry (subject to venue capacity) to every Omarchy SF event, plus their name on this page (opt-in).</p>
+  <ul class="tiers">
+    <li><a href="https://buy.stripe.com/cNifZ65mVgmTeAp6Fd1B605">$5 / month</a></li>
+    <li><a href="https://buy.stripe.com/aFa28g3eN0nV0Jz7Jh1B606">$25 / month</a></li>
+    <li><a href="https://buy.stripe.com/aFa7sAbLj9Yv4ZP3t11B607">$50 / month</a></li>
+    <li><a href="https://buy.stripe.com/eVq7sAg1z3A79g5bZx1B609">$250 / month</a></li>
+    <li><a href="https://buy.stripe.com/cNi4go6qZc6D0Jz9Rp1B608">One-time support (any amount)</a></li>
+  </ul>
+  <p>Monthly tiers renew monthly. Cancel anytime: <a href="https://billing.stripe.com/p/login/eVq6owg1z7Qndwl6Fd1B600">Manage subscription</a></p>
+  <p class="muted">Expenses: <a href="https://github.com/stevederico/omarchy-sf/blob/main/expenses/2026-09-02.md">September 2</a> · <a href="https://github.com/stevederico/omarchy-sf/blob/main/expenses/2026-09-30.md">September 30</a></p>
+
+  <h2>Current supporters</h2>
+  <p>Be the first!</p>
+
+  <h2>Past meetups / videos</h2>
+  <ul>
+    <li><strong>#1, September 2, 2026, hosted by Cloudflare</strong> (<a href="https://x.com/stevederico/status/2095598211797029246">watch on X</a>): Alex Finn (<a href="https://x.com/alexfinn">@alexfinn</a>) on focus workflows, Yifeng Wang (<a href="https://x.com/ewind_dev">@ewind_dev</a>) on Nintendo DS + iPod touch, Ayush Madhukar (<a href="https://x.com/ayumadbro">@ayumadbro</a>) on retro hardware, Francesco Bonacci (<a href="https://x.com/francedot">@francedot</a>) on a controlled sandbox.</li>
+    <li><strong>#2, hosted by Cloudflare, video posted October 1, 2026</strong> (<a href="https://x.com/stevederico/status/2105752586339148033">watch on X</a>): Ryan Hughes (<a href="https://x.com/ryanrhughes">@ryanrhughes</a>) on Yours to Make, Casey Shields (<a href="https://x.com/ShieldsWorks">@ShieldsWorks</a>) on Omahoy, <a href="https://x.com/zhephod">@zhephod</a> on FIDO2, Dishant Kaushik (<a href="https://x.com/dkaushik95">@dkaushik95</a>) on Omarchy Companion.</li>
+  </ul>
+
+  <footer class="muted">
+    <p><a href="https://github.com/stevederico/omarchy-sf">Source on GitHub</a></p>
+  </footer>
+</main>
+</body>
+</html>
