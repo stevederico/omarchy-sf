@@ -4,23 +4,23 @@ Omarchy SF is the San Francisco [Omarchy](https://omarchy.org) meetup. Bring you
 
 Community-run meetup. Not affiliated with or endorsed by Omarchy or 37signals.
 
-## Support
+## Membership
 
 Payments are processed by Bixby Apps LLC via Stripe. Not tax-deductible.
 
-Each meetup costs about $200 for pizza and beer. Anything left after meetup costs may be used by Bixby Apps LLC to sponsor Omarchy open source projects. Supporter money goes to meetup costs.
+Each meetup costs about $200 for pizza and beer. Anything left after meetup costs may be used by Bixby Apps LLC to sponsor Omarchy open source projects. Membership money goes to meetup costs.
 
-Supporters get early access and guaranteed entry (subject to venue capacity) to every Omarchy SF event, plus their name on this page (opt-in).
+Members get early access and guaranteed entry (subject to venue capacity) to every Omarchy SF event, plus their name on this page (opt-in).
 
-- [$5 / month](https://buy.stripe.com/cNifZ65mVgmTeAp6Fd1B605)
-- [$25 / month](https://buy.stripe.com/aFa28g3eN0nV0Jz7Jh1B606)
-- [$50 / month](https://buy.stripe.com/aFa7sAbLj9Yv4ZP3t11B607)
-- [$250 / month](https://buy.stripe.com/eVq7sAg1z3A79g5bZx1B609)
-- [One-time support (any amount)](https://buy.stripe.com/cNi4go6qZc6D0Jz9Rp1B608)
+- [$5 / month membership](https://buy.stripe.com/cNifZ65mVgmTeAp6Fd1B605)
+- [$25 / month membership](https://buy.stripe.com/aFa28g3eN0nV0Jz7Jh1B606)
+- [$50 / month membership](https://buy.stripe.com/aFa7sAbLj9Yv4ZP3t11B607)
+- [$250 / month membership](https://buy.stripe.com/eVq7sAg1z3A79g5bZx1B609)
+- [One-time contribution](https://buy.stripe.com/cNi4go6qZc6D0Jz9Rp1B608)
 
-Monthly tiers renew monthly. Cancel anytime: [Manage subscription](https://billing.stripe.com/p/login/eVq6owg1z7Qndwl6Fd1B600)
+Memberships renew monthly. Cancel anytime: [Manage subscription](https://billing.stripe.com/p/login/eVq6owg1z7Qndwl6Fd1B600)
 
-## Current supporters
+## Current members
 
 Be the first!
 
