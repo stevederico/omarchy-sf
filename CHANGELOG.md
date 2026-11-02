@@ -1,3 +1,7 @@
+0.3.0
+
+  Add open source note
+
 0.2.0
 
   Widen one-time button
