@@ -1,3 +1,7 @@
+0.4.0
+
+  Match Stripe wording
+
 0.3.0
 
   Add open source note
